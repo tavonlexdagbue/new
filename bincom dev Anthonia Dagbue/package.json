@@ -1,0 +1,25 @@
+{
+    "name": "bincontest",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Dagbue Anthonia",
+    "license": "ISC",
+    "dependencies": {
+        "cors": "^2.8.5",
+        "dotenv": "^17.2.0",
+        "express": "^5.1.0",
+        "mysql2": "^3.14.2",
+        "react-router-dom": "^7.6.3"
+    },
+    "devDependencies": {
+        "eslint": "^9.31.0",
+        "eslint-config-prettier": "^10.1.5",
+        "eslint-plugin-react": "^7.37.5",
+        "prettier": "^3.6.2"
+    }
+}
